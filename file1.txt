@@ -1,1 +1,1 @@
-Change the file1.txt to use tag
+Change the file1.txt to use --amend
