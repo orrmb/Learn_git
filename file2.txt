@@ -1,1 +1,1 @@
-Change the file2.txt to use git diff
+Change the file2.txt
