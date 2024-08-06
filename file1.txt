@@ -1,1 +1,1 @@
-Change the file1.txt to use HEAD
+Change the file1.txt to use --amend
