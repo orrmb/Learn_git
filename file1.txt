@@ -1,1 +1,1 @@
-Change the file1.txt to use --amend
+Change the file1.txt Merge conflict
