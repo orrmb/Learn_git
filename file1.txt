@@ -1,1 +1,1 @@
-Change the file1.txt Merge conflict in Master!
+1 Change
